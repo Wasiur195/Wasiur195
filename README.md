@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wasiur Rahman</h1>
 <h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **BuddyBoss**
+- 🔭 I’m currently working on **Miracle Advance Technology**
 
 - 🌱 I’m currently learning **Automation Web and App**
 
