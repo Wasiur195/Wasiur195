@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **Miracle Advance Technology**
 
-- 🌱 I’m currently learning **Automation Web and App**
+- 🌱 I’m currently Working as **Sr SDET**
 
 - 👯 I’m looking to collaborate on **WordPress**
 
-- 🤝 I’m looking for help with **WordPress and Manual Testing**
+- 🤝 I’m looking for help with **Automation and Manual SQA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wasiur195](https://github.com/Wasiur195)
 
-- 💬 Ask me about **Java, Selenium**
+- 💬 Ask me about **Java, Selenium, PlayWright**
 
 - 📫 How to reach me **wasiurrahman195@gmail.com**
 
